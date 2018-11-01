@@ -13,6 +13,7 @@ Inspiration: Github, SCRUM, scrum-master, chat
 Redan existerande teknik och metoder på arbetsplatser: epost och e-kalender, intranät, styrdokument, uppgiftsbeskrivning, elektronisk uppföljning och mätningar, utvecklingsdiskussioner och -möten,
  
 Fiktiva kunder:
+Frisör salong, hålla reda på kommande kunder och tider. Samt när man bör göra produkt beställningar
 Plastfabrik, privatägt aktiebolag, 50 anställda fabriksarbetare och ingenjörer. Typiska problem: bristande träning i maskinhantering och -inställningar, svårt att få helhetsbild för nybörjare, minska down-time,
 Äldrevård, kommunal, 10 anställda närvårdare och sjukskötare. Typiska problem: kunder med stora vårdbehov och -tid, tunga lyft av patienter, medicinutdelning och dosering,
 Städtjänster, kommanditbolag, ägare och 2 anställd städare. Typiska problem: delning av tjänstebil och utrustning, icke-ergonomiska städverktyg, hitta fler nya kunder
