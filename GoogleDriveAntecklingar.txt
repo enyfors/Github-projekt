@@ -132,5 +132,10 @@ Alla kan göra tickets (arbetsuppgifter)
 Svipar/klickar för att flytta tickets, som en slags post-it.
 Visualisera användarens prestationer i grafer
 Centraliserad lagringsutrymme för filer 
-Använd git som versionskontroll, open source för att dela och ändra Word, Excel oxh Powerpoin. 
+Använd git som versionskontroll, open source för att dela och ändra Word, Excel och Powerpoint. 
 Git för skrivarbete?
+
+Förslag: Gör först lättanvänd Trello-version på mobilen via nätet för arbetsuppgifter utanför IT-branschen. 
+Senare: Gör ändringar i Word/Excel/Powerpoint på egen dator, ladda upp på Git, merga via nätet, kontrollera användarnas bidrag, spara tidigare versioner. 
+
+Trello-version: Gör själv antalet spalter, face-ikon för arbetstagare och ticket som de håller på att göra. Kalenderformat och SCRUM-anslagstavla kombineras. Tickets: kan sorteras enligt tidtabell, prioriteringsgrad, åt vem de riktas, kategori. 
