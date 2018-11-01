@@ -131,5 +131,6 @@ SCRUM-anslagstavla
 Alla kan göra tickets (arbetsuppgifter)
 Svipar/klickar för att flytta tickets, som en slags post-it.
 Visualisera användarens prestationer i grafer
-Centraliserad lagringsutrymme för delade textdokument, excel och powerpoint-filer (använd git som versionskontroll, open source). 
+Centraliserad lagringsutrymme för filer 
+Använd git som versionskontroll, open source för att dela och ändra Word, Excel oxh Powerpoin. 
 Git för skrivarbete?
